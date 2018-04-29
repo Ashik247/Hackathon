@@ -1,0 +1,19 @@
+{
+   "expo": {
+    "name": "Dally",
+    "icon": "/Users/Fai/Dally/icon.png",
+    "version": "1.0.0",
+    "slug": "dally",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.AimHigh.Dally"
+    },
+    "android": {
+      "package": "com.AimHigh.Dally",
+      "config": {
+	"googleMaps": { "apiKey": " " }
+
+	}
+    }
+   }
+ }
